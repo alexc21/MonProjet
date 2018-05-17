@@ -1,0 +1,61 @@
+#box{
+	border:1px solid black;
+	background-color: #00f0f0;
+	}
+li{
+	text-align:left;
+	list-style-type:none;
+	font-weight:bold;
+}
+#coord{
+	float:left;
+	width:25%;
+	height:100%;
+	text-align:center;
+}
+#titre{
+	font-family:fantasy;
+	font-size:20px;
+	float:left;
+	width:50%;
+	text-align:center;
+}
+#photo{
+	border:1px solid black;
+	text-align:center;
+}
+#box2{
+	display:flex;
+	height:100px;
+}
+#xppro{
+	background-color: #00f0f0;
+	font-family:fantasy;
+	width:50%;
+	height:300px;
+	border:1px solid black;
+	text-align:center;
+}
+#forma{
+	background-color:#00f0f0;
+	font-family:fantasy;
+	text-align:center;
+	width:50%;
+	border:1px solid black;
+	float:left;
+	
+}
+#box3{
+	border:1px solid black;
+}
+#comp {
+	font-family:fantasy;
+	text-align:center;
+}
+#box4{
+	border:1px solid black;
+}
+#past {
+	font-family:fantasy;
+	text-align:center;
+}
